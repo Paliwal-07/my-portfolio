@@ -65,9 +65,10 @@ export const skillsData = [
   "Redux",
   "GraphQL",
   "Java",
-  "Express",
+  "Express.js",
   "MySQL",
   "Python",
   "SASS",
   "Framer Motion",
+  "C++",
 ] as const;
