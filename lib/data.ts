@@ -71,4 +71,5 @@ export const skillsData = [
   "SASS",
   "Framer Motion",
   "C++",
+  "Computer Networks",
 ] as const;
