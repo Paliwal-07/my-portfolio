@@ -57,6 +57,7 @@ export const skillsData = [
   "React",
   "Next.js",
   "Node.js",
+  "Firebase",
   "Git",
   "Tailwind",
   "Prisma",
